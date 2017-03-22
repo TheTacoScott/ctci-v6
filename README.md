@@ -1,4 +1,6 @@
 # Cracking the Coding Interview - 6th Edition
+## Solution Progress (5 / 189)
+
 This repository is for my solution(s) to each of the 189 problem sets in Cracking the Coding Interview - 6th Edition.
 I time myself, make notes of any hints used, track my thoughts before/after looking at the solution(s) in the book and leave all solution(s) I attempted, good or bad. I do not "pre-look" at the question(s) and ruminate on them for days while I think of a perfect solution. It's all done in one sitting except where specifically noted. An example of a "two day" solution being one where my car was getting towed and I had to leave in the middle. Check the commit log... funny stuff. =)
 
