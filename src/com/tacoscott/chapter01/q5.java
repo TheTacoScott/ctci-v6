@@ -78,7 +78,7 @@ public class q5 {
   //  type of edit it's likely to see/allow.
   //  The incrementing read indexes seem reasonable, and the while loop protect array out of bounds.
   //Thoughts after looking at solution(s) in book:
-  //  My solution is very simialr to their refinement of their first solution. Using read advancing read indexes.
+  //  My solution is very simialr to their refinement of their first solution. Using advancing read indexes.
   //  I pre-identify the type of minor edit that would be allowed based on the string length diff, and use that to
   //  return early if it meets no criteria. I then use that pre-identified type of edit to advance the indexes rather
   //  than do the calulate the string length diff every loop.
