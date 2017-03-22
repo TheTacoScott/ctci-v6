@@ -74,7 +74,7 @@ public class q5 {
   //End @ 10:35am
   //Hints used: none
   //Thoughts before looking at solution in book:
-  //  Generally pretty happy this secondPass. It short circuits out if it's an obvious major edit, and can identify the
+  //  Generally pretty happy with secondPass. It short circuits out if it's an obvious major edit, and can identify the
   //  type of edit it's likely to see/allow.
   //  The incrementing read indexes seem reasonable, and the while loop protect array out of bounds.
   //Thoughts after looking at solution(s) in book:
